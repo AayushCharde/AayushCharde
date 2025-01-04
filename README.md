@@ -31,12 +31,8 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushcharde&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushcharde&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushcharde&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+📊 GitHub Stats
+<div align="center" style="padding: 20px; background: linear-gradient(145deg, #1f1f1f, #3f3f3f); border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);"> <img src="https://github-readme-stats.vercel.app/api?username=aayushcharde&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin: 10px; border-radius: 10px;"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushcharde&theme=radical" alt="GitHub Streak" style="margin: 10px; border-radius: 10px;"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushcharde&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px; border-radius: 10px;"/> </div>
 
 ---
 
