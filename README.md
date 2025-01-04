@@ -18,14 +18,16 @@
 ---
 
 ### 🌍 Connect with Me:
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-charde-92115a258" target="_blank">
+  <a href="https://www.linkedin.com/in/ayush-charde-92115a258" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  <a href="https://fb.com/https://www.facebook.com/ayush.charde.184" target="blank">
-    </a>
+  </a>
+  <a href="https://www.facebook.com/ayush.charde.184" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
+
 
 ---
 
