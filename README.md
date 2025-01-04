@@ -32,7 +32,12 @@
 ---
 
 📊 GitHub Stats
-<div align="center" style="padding: 20px; background: linear-gradient(145deg, #1f1f1f, #3f3f3f); border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);"> <img src="https://github-readme-stats.vercel.app/api?username=aayushcharde&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin: 10px; border-radius: 10px;"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushcharde&theme=radical" alt="GitHub Streak" style="margin: 10px; border-radius: 10px;"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushcharde&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px; border-radius: 10px;"/> </div>
+<p align="center"
+<div align="center" style="padding: 20px; background: linear-gradient(145deg, #1f1f1f, #3f3f3f); border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);"> 
+<img src="https://github-readme-stats.vercel.app/api?username=aayushcharde&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin: 10px; border-radius: 10px;"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushcharde&theme=radical" alt="GitHub Streak" style="margin: 10px; border-radius: 10px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushcharde&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px; border-radius: 10px;"/> </div>
+</p>
 
 ---
 
@@ -45,7 +50,7 @@
 
 ### 🌟 Featured Projects:
 - **[PodPilot](https://github.com/ayushcharde/podpilot):** Revolutionizing podcast production with AI.  
-- **[Your Featured Projects](#):** Highlight your top creations here!  
+- **[Beacon](https://github.com/ayushcharde/beacon):** It's A Social Awareness Platform using Flutter!  
 
 ---
 
