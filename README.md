@@ -1,169 +1,90 @@
-<h1 align="center">✨ Hi 👋, I'm Aayush Charde! ✨</h1>
-<h3 align="center">🚀 Passionate Software Developer | Tech Enthusiast from India 🌟</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayushcharde&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-### 🌠 About Me:
-- 🔭 Currently building **[PodPilot](https://github.com/ayushcharde/podpilot)**, an AI-powered podcasting platform.  
-- 🌱 Exploring **SaaS Development with Next.js**.  
-- 💬 Happy to chat about **Java, Flutter, and Frontend Development**.  
-- 📫 Reach me at **ayushcharde933@gmail.com**.  
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1v6o92fxaAHws9TrfYhxqrVoSYk8GRbht/view?usp=drivesdk)**.  
-- ⚡ *Fun Fact:* **Learning syntax is pointless without hands-on practice!**  
-
----
-
-### 🌍 Connect with Me:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-charde-92115a258" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/ayush.charde.184" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
-
-
----
-
-🛠️ Tech Stack:
 <div align="center">
-  <p>
-    <!-- Languages -->
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <!-- Web Development -->
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <!-- Tools & Frameworks -->
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <!-- Databases & Cloud -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <!-- Others -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" style="margin: 10px;" />
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" style="margin: 10px;" />
-    </a>
-  </p>
+
+# Hey, I'm Aayush Charde
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=520&lines=Full-Stack+Developer;AI+%2F+ML+Enthusiast;Building+with+Next.js+%26+Python;Flutter+%26+Mobile+Development" alt="Typing SVG" /></a>
+
+I build intelligent, user-focused applications — from AI-powered platforms to mobile apps and computer vision systems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-charde-92115a258)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushcharde933@gmail.com)
+
 </div>
 
 ---
 
-📊 GitHub Stats
-<p align="center"
-<div align="center" style="padding: 20px; background: linear-gradient(145deg, #1f1f1f, #3f3f3f); border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);"> 
-<img src="https://github-readme-stats.vercel.app/api?username=aayushcharde&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin: 10px; border-radius: 10px;"/> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushcharde&theme=radical" alt="GitHub Streak" style="margin: 10px; border-radius: 10px;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushcharde&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px; border-radius: 10px;"/> </div>
-</p>
+## What I'm Working On
+
+- Building **[PodPilot](https://github.com/AayushCharde/PodPilot)** — an AI-powered podcast platform with Next.js and OpenAI
+- Exploring **SaaS development** and **full-stack AI applications**
+- Deepening skills in **machine learning** and **computer vision**
 
 ---
 
-### 🏆 GitHub Achievements:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushcharde&theme=onedark&no-frame=true&row=1" alt="Trophies" />
-</p>
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**PodPilot**](https://github.com/AayushCharde/PodPilot) | AI-powered podcast platform with text-to-speech generation and discovery | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) |
+| [**Amazon Sentiment Analysis**](https://github.com/AayushCharde/Amazon-Sentiment-analysis) | NLP pipeline for Amazon reviews using TextBlob, VADER, and Logistic Regression | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
+| [**Fine-Sketch-Vintage**](https://github.com/AayushCharde/Fine-Sketch-Vintage) | Real-time hand-drawn sketch recognition using deep learning | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask) |
+| [**Beacon**](https://github.com/AayushCharde/Beacon) | Social awareness mobile app with categorized information feeds | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
+| [**EDC**](https://github.com/AayushCharde/EDC) | Hands-free cursor control via real-time eye and face tracking | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| [**ChatHub**](https://github.com/AayushCharde/ChatHub) | Multi-user real-time chat application with server-client architecture | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 
 ---
 
-### 🌟 Featured Projects:
-- **[PodPilot](https://github.com/ayushcharde/podpilot):** Revolutionizing podcast production with AI.  
-- **[Beacon](https://github.com/ayushcharde/beacon):** It's A Social Awareness Platform using Flutter!  
+## Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logo=convex&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🎯 2025 Goals:
-- 🚀 Launch **PodPilot** successfully.  
-- 🌐 Contribute to **open-source projects**.  
-- 🛠️ Advance skills in **SaaS development** and **UI/UX design**.  
+## GitHub Stats
 
----
+<div align="center">
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background: linear-gradient(135deg, #2C3333, #0E8388);">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img 
-      alt="github-snake" 
-      src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" 
-      style="filter: drop-shadow(0 0 10px #00FFAA); transition: transform 0.3s ease-in-out;" 
-      onmouseover="this.style.transform='scale(1.1)'" 
-      onmouseout="this.style.transform='scale(1)'"
-    />
-  </picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushcharde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushcharde&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
 </div>
-
-
-
-### ☕ Support:
-If you like what I do, consider giving my repositories a ⭐!  
-</p>
-
-
