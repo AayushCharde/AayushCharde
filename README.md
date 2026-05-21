@@ -2,7 +2,6 @@
 
 # Hey, I'm Aayush Charde
 
-### AI Engineer @ Aaseya IT Services
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=AI+Engineer+%40+Aaseya+IT+Services;LLMs+%C2%B7+RAG+%C2%B7+Computer+Vision;MLOps+%26+Production+ML;Building+intelligent+systems+end-to-end" alt="Typing SVG" /></a>
 
