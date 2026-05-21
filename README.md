@@ -83,8 +83,10 @@ I build intelligent, user-focused applications — from AI-powered platforms to 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushcharde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AayushCharde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushcharde&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=AayushCharde&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayushCharde&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css,scss&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 
 </div>
