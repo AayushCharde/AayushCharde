@@ -2,6 +2,8 @@
 
 # Hey, I'm Aayush Charde
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="Developer at work" />
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=620&lines=AI+Engineer+%C2%B7+Computer+Vision+%C2%B7+LLMs;Production+ML+under+real+constraints;Detection+%C2%B7+Recognition+%C2%B7+VLM+pipelines;MLOps+%26+model+serving" alt="Typing SVG" /></a>
 
 AI Engineer building production ML systems — computer vision pipelines, LLM/RAG applications, and the MLOps to run them. I care about the unglamorous parts: model licensing, latency budgets, and what it costs to run at scale.
